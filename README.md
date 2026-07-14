@@ -1,66 +1,30 @@
 <div align="center">
 
-<!-- ================= HERO SECTION ================= -->
+<!-- ============ HERO ============ -->
 
 # Hedayat Ali
 
-### Software Developer &nbsp;•&nbsp; Full Stack Developer &nbsp;•&nbsp; Python Developer
+### Software Developer · Full Stack Developer · Python Developer
 
-<i>Turning complex problems into elegant, efficient, and scalable software.</i>
+**Turning complex problems into elegant, efficient, and scalable software.**
 
 <br/>
 
-<img src="Assets/output.gif" width="640" alt="Hedayat Ali - Hero Animation"/>
+<img src="Assets/output.gif" width="380" alt="Hero Animation" />
 
 <br/><br/>
 
-<a href="https://github.com/Hedayat002">
-  <img src="https://img.shields.io/badge/GitHub-Hedayat002-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/hedayat002/">
-  <img src="https://img.shields.io/badge/LinkedIn-hedayat002-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://portfolio-hedayat.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://leetcode.com/u/Hedayat002/">
-  <img src="https://img.shields.io/badge/LeetCode-Hedayat002-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-</a>
+<a href="https://github.com/Hedayat002"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://linkedin.com/in/hedayat002"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/u/Hedayat002/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://www.geeksforgeeks.org/user/YOUR_GFG"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+<a href="https://x.com/HadiMalik440978"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://portfolio-hedayat.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:hedayatali038@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/>
 
-<a href="https://www.geeksforgeeks.org/profile/hadimalik">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-hadimalik-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-</a>
-<a href="https://www.hackerrank.com/profile/hadimalik001">
-  <img src="https://img.shields.io/badge/HackerRank-hadimalik001-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
-</a>
-<a href="https://x.com/HadiMalik440978">
-  <img src="https://img.shields.io/badge/X-HadiMalik440978-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-</a>
-<a href="mailto:hedayatali038@gmail.com">
-  <img src="https://img.shields.io/badge/Email-hedayatali038%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br/><br/>
-
-[About](#about-me) •
-[Skills](#tech-stack) •
-[Analytics](#github-analytics) •
-[Competitive Programming](#competitive-programming) •
-[Projects](#featured-projects) •
-[Open Source](#open-source) •
-[Timeline](#timeline) •
-[Achievements](#achievements) •
-[Contact](#lets-connect)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=780&lines=Python+Developer;Backend+Developer;Full+Stack+Developer;FastAPI+Developer;Django+Developer;Problem+Solver;Open+Source+Enthusiast;AI+%26+LLM+Enthusiast;System+Design+Learner;Competitive+Programmer;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Developer;Full+Stack+Developer;Python+Developer;Backend+Developer;MERN+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;AI+%26+LLM+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 </div>
 
@@ -68,179 +32,289 @@
 
 ---
 
-<br/>
+<h2 align="center">🧑‍💻 About Me</h2>
 
-<h2 id="about-me" align="center">About Me</h2>
-
-<div align="center">
-<table>
+<table align="center">
 <tr>
-<td width="100%">
+<td>
 
-I'm **Hedayat Ali**, a **B.Tech Computer Science graduate** and **Software Developer** with a strong foundation in backend engineering, full-stack development, and problem solving. I enjoy designing clean architectures, writing efficient code, and building products that scale gracefully under real-world load.
-
-I'm currently **available for Software Engineering opportunities**, and actively deepening my expertise in:
-
-- System Design & Distributed Architecture
-- Cloud Computing & AWS
-- Docker & Containerization
-- Large Language Models (LLMs) & Prompt Engineering
-- Backend Development with FastAPI & Django
-- Artificial Intelligence & Vector Databases
-- Open Source Contribution
-- Data Structures, Algorithms & Competitive Programming
-
-**Career Goal —** Build scalable software used by millions, while continuously growing as an engineer and contributing meaningfully to the developer community.
+- 🚀 I'm a **Full Stack Developer**, building web applications with the **MERN stack** (MongoDB, Express, React, Node.js)
+- 🎓 Currently sharpening my skills in **System Design**, **Backend Architecture**, and **AI-powered applications**
+- 🧠 Deeply interested in **Prompt Engineering**, **LLMs**, and applied **AI in production systems**
+- 🛠️ Actively building real-world projects — from creator-support platforms to link management tools
+- ♟️ Passionate about **Problem Solving**, **DSA**, and **Competitive Programming**
+- ☁️ Exploring **Cloud** and **DevOps** practices to ship scalable, production-ready software
+- 🌱 Long-term goal: become a well-rounded **Software Engineer** who can design, build, and scale systems end-to-end
+- 💼 **Available for Software Engineering opportunities**
 
 </td>
 </tr>
 </table>
-</div>
-
-<div align="right"><a href="#hedayat-ali">Back to top</a></div>
 
 ---
 
-<br/>
-
-<h2 id="currently-working-on" align="center">Currently Working On</h2>
+<h2 align="center">🔭 Currently Working On</h2>
 
 <div align="center">
 
-| | | |
-|:---|:---|:---|
-| ✅ FastAPI | ✅ Django | ✅ React |
-| ✅ Next.js | ✅ Python | ✅ Redis |
-| ✅ MongoDB | ✅ PostgreSQL | ✅ Docker |
-| ✅ AWS | ✅ LLMs | ✅ Prompt Engineering |
-| ✅ System Design | ✅ Open Source | ✅ AI Projects |
-| ✅ Backend APIs | | |
+- [x] Building scalable backend systems
+- [x] Sharpening React & Next.js skills
+- [ ] Learning System Design in depth
+- [ ] Building AI-powered projects
+- [ ] Deepening FastAPI & Django expertise
+- [ ] Exploring AWS & Docker for deployment
+- [ ] Working with LLMs & Prompt Engineering
+- [ ] Learning Vector Databases
+- [ ] Strengthening Redis, PostgreSQL & MongoDB skills
+- [ ] Contributing to Open Source
 
 </div>
 
-<div align="right"><a href="#hedayat-ali">Back to top</a></div>
-
 ---
 
-<br/>
-
-<h2 id="ask-me-about" align="center">Ask Me About</h2>
+<h2 align="center">💬 Ask Me About</h2>
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![System Design](https://img.shields.io/badge/System%20Design-4B5563?style=flat-square&logo=architecture&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6C63FF?style=flat-square&logo=openai&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-3178C6?style=flat-square&logo=leetcode&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Algorithms-000000?style=flat-square&logo=codeforces&logoColor=white)
-![Competitive Programming](https://img.shields.io/badge/Competitive%20Programming-FFA116?style=flat-square&logo=leetcode&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend%20Dev-4B32C3?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-1E88E5?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge)
+![Competitive Programming](https://img.shields.io/badge/Competitive%20Programming-2F8D46?style=for-the-badge)
 
 </div>
 
-<div align="right"><a href="#hedayat-ali">Back to top</a></div>
-
 ---
 
-<br/>
-
-<h2 id="tech-stack" align="center">Tech Stack</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
 
 **Languages**
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" alt="Languages"/>
-
-<br/><br/>
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,python" alt="Backend"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
 
 <br/><br/>
 
 **Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js" />
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js" alt="Frontend"/>
+<br/><br/>
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" />
 
 <br/><br/>
 
 **Databases**
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" alt="Databases"/>
-
-<br/><br/>
-
-**Cloud**
-
-<img src="https://skillicons.dev/icons?i=aws" alt="Cloud"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
 
 <br/><br/>
 
-**DevOps**
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux" alt="DevOps"/>
-
-<br/><br/>
-
-**AI**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="AI"/>
-&nbsp;&nbsp;
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+**Cloud & DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" />
 
 <br/><br/>
 
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,git,github" alt="Tools"/>
+**AI / ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,openai" />
 
 <br/><br/>
 
-**Operating Systems**
-
-<img src="https://skillicons.dev/icons?i=linux" alt="Operating Systems"/>
+**Tools & OS**
+<br/>
+<img src="https://skillicons.dev/icons?i=vscode,postman,linux,githubactions" />
 
 </div>
 
-<div align="right"><a href="#hedayat-ali">Back to top</a></div>
-
 ---
 
-<br/>
-
-<h2 id="github-analytics" align="center">GitHub Analytics</h2>
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hedayat002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hedayat002&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="38%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Hedayat002&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hedayat002&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hedayat002&theme=tokyonight&hide_border=false" height="165" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hedayat002&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hedayat002&theme=tokyo-night&hide_border=true" width="90%" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hedayat002&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
+![Profile Views](https://komarev.com/ghpvc/?username=Hedayat002&color=58A6FF&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Hedayat002?style=for-the-badge&color=58A6FF&labelColor=181717)
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hedayat002&theme=tokyonight&no-frame=true&column=4&margin-w=12&margin-h=12" alt="GitHub Trophies" width="80%"/>
+<!-- Contribution Snake (optional) -->
+<img src="https://raw.githubusercontent.com/Hedayat002/Hedayat002/output/github-contribution-grid-snake.svg" width="90%" alt="Contribution Snake" />
+
+</div>
+
+---
+
+<h2 align="center">🏆 Competitive Programming</h2>
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Hedayat002/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://www.geeksforgeeks.org/user/YOUR_GFG"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/profile/hadimalik001"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+
+</div>
+
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Portfolio Website
+Personal portfolio showcasing projects, skills, and experience with a clean, modern UI.
+
+**Tech Stack:** `React` `Next.js` `Tailwind CSS`
+
+[🔗 Repository](https://github.com/Hedayat002?tab=repositories) · [🌍 Live Demo](https://portfolio-hedayat.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### 📖 Yaad-e-Saliheen
+A content-driven platform preserving and sharing meaningful stories and teachings.
+
+**Tech Stack:** `JavaScript` `Node.js` `MongoDB`
+
+[🔗 Repository](https://github.com/Hedayat002?tab=repositories) · [🌍 Live Demo](https://portfolio-hedayat.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗳️ Decentralized Voting
+A blockchain-based voting system focused on transparency and tamper-proof results.
+
+**Tech Stack:** `Solidity` `React` `Ethereum`
+
+[🔗 Repository](https://github.com/Hedayat002?tab=repositories) · [🌍 Live Demo](https://portfolio-hedayat.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Projects
+A collection of AI/LLM-powered tools exploring prompt engineering and applied machine learning.
+
+**Tech Stack:** `Python` `OpenAI API` `LangChain`
+
+[🔗 Repository](https://github.com/Hedayat002?tab=repositories) · [🌍 Live Demo](https://portfolio-hedayat.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ FastAPI REST API
+A high-performance REST API backend built with FastAPI, designed for speed and scalability.
+
+**Tech Stack:** `Python` `FastAPI` `PostgreSQL`
+
+[🔗 Repository](https://github.com/Hedayat002?tab=repositories) · [🌍 Live Demo](https://portfolio-hedayat.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Django Project
+A full-featured web application built on Django, focused on maintainability and clean architecture.
+
+**Tech Stack:** `Python` `Django` `MySQL`
+
+[🔗 Repository](https://github.com/Hedayat002?tab=repositories) · [🌍 Live Demo](https://portfolio-hedayat.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🫖 Get-Chai — Creator Support Platform
+An open-source, Patreon-style platform enabling creators to receive one-time or recurring support from their audience.
+
+**Tech Stack:** `JavaScript` `Node.js` `Express` `MongoDB`
+
+[🔗 Repository](https://github.com/Hedayat002/Get-Chai) · [🌍 Live Demo](https://portfolio-hedayat.vercel.app/)
+
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">🌍 Open Source & Community</h2>
+
+<div align="center">
+
+🤝 **Open Source Contributions** — Actively contributing to and maintaining open-source repositories<br/>
+🏆 **Hackathons** — Participating in hackathons to build and ship under pressure<br/>
+👥 **Community** — Engaging with developer communities to learn and grow together<br/>
+✍️ **Writing & Blogs** — Sharing knowledge through technical write-ups<br/>
+🎤 **Tech Talks** — Open to speaking on backend development, AI, and system design
+
+</div>
+
+---
+
+<h2 align="center">💭 Quote</h2>
+
+<div align="center">
+
+> *"Code is like humor. When you have to explain it, it's bad."*
+> — **Cory House**
+
+</div>
+
+---
+
+<div align="center">
+
+## 🙌 Thanks for Visiting My Profile
+
+### Let's build something amazing together.
+
+<a href="https://github.com/Hedayat002"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://linkedin.com/in/hedayat002"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:hedayatali038@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hedayat002&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" width="90%"/>
+![Snake Animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
-<br/><br/>
+</div>

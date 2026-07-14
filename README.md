@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="Assets/output.gif" width="380" alt="Hero Animation" />
+<!-- <img src="Assets/output.gif" width="380" alt="Hero Animation" /> -->
 
 <br/><br/>
 

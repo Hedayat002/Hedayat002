@@ -1,4 +1,8 @@
-<!--
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img alt="header" src="dark.svg">
+</picture>
 <div align="center">
 
 <!-- ============ HERO ============ -->
@@ -319,4 +323,3 @@ An open-source, Patreon-style platform enabling creators to receive one-time or 
 ![Snake Animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
 </div>
--->

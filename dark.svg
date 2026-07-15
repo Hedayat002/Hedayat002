@@ -90,7 +90,7 @@
     <tspan x="0" dy="20" opacity="0">  &gt; role<animate attributeName="opacity" to="1" begin="3.50s" dur="0.01s" fill="freeze"/></tspan>
     <tspan x="0" dy="20" opacity="0">    full_stack_dev<animate attributeName="opacity" to="1" begin="3.85s" dur="0.01s" fill="freeze"/></tspan>
     <tspan x="0" dy="20" opacity="0">  &gt; stack<animate attributeName="opacity" to="1" begin="4.20s" dur="0.01s" fill="freeze"/></tspan>
-    <tspan x="0" dy="20" opacity="0">    mern / next.js<animate attributeName="opacity" to="1" begin="4.55s" dur="0.01s" fill="freeze"/></tspan>
+    <!-- <tspan x="0" dy="20" opacity="0">    mern / next.js<animate attributeName="opacity" to="1" begin="4.55s" dur="0.01s" fill="freeze"/></tspan> -->
     <tspan x="0" dy="20" opacity="0">  &gt; status<animate attributeName="opacity" to="1" begin="4.90s" dur="0.01s" fill="freeze"/></tspan>
     <tspan x="0" dy="20" opacity="0">    [ONLINE] building_<animate attributeName="opacity" to="1" begin="5.25s" dur="0.01s" fill="freeze"/></tspan>
   </text>
@@ -304,7 +304,7 @@
 <g transform="translate(544,-9) scale(0.750)" fill="#F8FAFC"><rect x="0.5" y="8" width="4.4" height="15.5" rx="1"/><circle cx="2.7" cy="3" r="2.6"/><path d="M9 8h4.2v2.1h.06c.58-1.1 2-2.26 4.14-2.26 4.43 0 5.25 2.92 5.25 6.72V23.5h-4.4v-7.1c0-1.7-.03-3.87-2.36-3.87-2.37 0-2.73 1.85-2.73 3.75v7.22H9V8Z"/></g>
 </g>
 </a>
-<a xlink:href="https://get-chai.vercel.app/" target="_blank">
+<a xlink:href="https://portfolio-hedayat.vercel.app/" target="_blank">
 <g opacity="0" transform="translate(0,552)"><animate attributeName="opacity" to="1" begin="3.90s" dur="0.4s" fill="freeze"/>
   <circle cx="599" cy="0" r="17" fill="#0B1220" stroke="#334155" stroke-width="1"/>
   <circle cx="599" cy="0" r="17" fill="none" stroke="#22D3EE" stroke-width="1" opacity="0">

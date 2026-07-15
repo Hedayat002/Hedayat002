@@ -59,28 +59,6 @@
 </td>
 </tr>
 </table>
-
----
-
-<h2 align="center">🔭 Currently Working On</h2>
-
-<div align="center">
-
-- [x] Building scalable backend systems
-- [x] Sharpening React & Next.js skills
-- [ ] Learning System Design in depth
-- [ ] Building AI-powered projects
-- [ ] Deepening FastAPI & Django expertise
-- [ ] Exploring AWS & Docker for deployment
-- [ ] Working with LLMs & Prompt Engineering
-- [ ] Learning Vector Databases
-- [ ] Strengthening Redis, PostgreSQL & MongoDB skills
-- [ ] Contributing to Open Source
-
-</div>
-
----
-
 <h2 align="center">💬 Ask Me About</h2>
 
 <div align="center">
@@ -163,12 +141,12 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hedayat002&theme=tokyo-night&hide_border=true" width="90%" />
 
-<br/><br/>
+<!-- <br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Hedayat002&color=58A6FF&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/Hedayat002?style=for-the-badge&color=58A6FF&labelColor=181717)
 
-<br/><br/>
+<br/><br/> -->
 
 <!-- Contribution Snake (optional) -->
 <img src="https://raw.githubusercontent.com/Hedayat002/Hedayat002/output/github-contribution-grid-snake.svg" width="90%" alt="Contribution Snake" />
@@ -204,62 +182,6 @@ Personal portfolio showcasing projects, skills, and experience with a clean, mod
 
 </td>
 <td width="50%" valign="top">
-
-### 📖 Yaad-e-Saliheen
-A content-driven platform preserving and sharing meaningful stories and teachings.
-
-**Tech Stack:** `JavaScript` `Node.js` `MongoDB`
-
-[🔗 Repository](https://github.com/Hedayat002?tab=repositories) · [🌍 Live Demo](https://portfolio-hedayat.vercel.app/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🗳️ Decentralized Voting
-A blockchain-based voting system focused on transparency and tamper-proof results.
-
-**Tech Stack:** `Solidity` `React` `Ethereum`
-
-[🔗 Repository](https://github.com/Hedayat002?tab=repositories) · [🌍 Live Demo](https://portfolio-hedayat.vercel.app/)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI Projects
-A collection of AI/LLM-powered tools exploring prompt engineering and applied machine learning.
-
-**Tech Stack:** `Python` `OpenAI API` `LangChain`
-
-[🔗 Repository](https://github.com/Hedayat002?tab=repositories) · [🌍 Live Demo](https://portfolio-hedayat.vercel.app/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ FastAPI REST API
-A high-performance REST API backend built with FastAPI, designed for speed and scalability.
-
-**Tech Stack:** `Python` `FastAPI` `PostgreSQL`
-
-[🔗 Repository](https://github.com/Hedayat002?tab=repositories) · [🌍 Live Demo](https://portfolio-hedayat.vercel.app/)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 Django Project
-A full-featured web application built on Django, focused on maintainability and clean architecture.
-
-**Tech Stack:** `Python` `Django` `MySQL`
-
-[🔗 Repository](https://github.com/Hedayat002?tab=repositories) · [🌍 Live Demo](https://portfolio-hedayat.vercel.app/)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
 
 ### 🫖 Get-Chai — Creator Support Platform
 An open-source, Patreon-style platform enabling creators to receive one-time or recurring support from their audience.

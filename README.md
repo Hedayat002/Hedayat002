@@ -5,6 +5,8 @@
 </picture>
 <div align="center">
 
+<div align="center">
+
 <!-- ============ HERO ============ -->
 
 # Hedayat Ali
@@ -15,7 +17,7 @@
 
 <br/>
 
-<!-- <img src="Assets/output.gif" width="380" alt="Hero Animation" /> -->
+<img src="Assets/output.gif" width="380" alt="Hero Animation" />
 
 <br/><br/>
 
@@ -60,7 +62,7 @@
 
 <h2 align="center">🔭 Currently Working On</h2>
 
-<div align="center">
+<!--<div align="center">
 
 - [x] Building scalable backend systems
 - [x] Sharpening React & Next.js skills
@@ -107,49 +109,36 @@
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
-<div align="center">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
-
-<br/><br/>
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js" />
-
-<br/><br/>
-
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" />
-
-<br/><br/>
-
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
-
-<br/><br/>
-
-**Cloud & DevOps**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" />
-
-<br/><br/>
-
-**AI / ML**
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,openai" />
-
-<br/><br/>
-
-**Tools & OS**
-<br/>
-<img src="https://skillicons.dev/icons?i=vscode,postman,linux,githubactions" />
-
-</div>
+<table align="center">
+<tr>
+<td align="center"><b>Languages</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" /></td>
+</tr>
+<tr>
+<td align="center"><b>Frontend</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js" /></td>
+</tr>
+<tr>
+<td align="center"><b>Backend</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" /></td>
+</tr>
+<tr>
+<td align="center"><b>Databases</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" /></td>
+</tr>
+<tr>
+<td align="center"><b>Cloud & DevOps</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" /></td>
+</tr>
+<tr>
+<td align="center"><b>AI / ML</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,openai" /></td>
+</tr>
+<tr>
+<td align="center"><b>Tools & OS</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode,postman,linux,githubactions" /></td>
+</tr>
+</table>
 
 ---
 
@@ -214,51 +203,7 @@ Personal portfolio showcasing projects, skills, and experience with a clean, mod
 </td>
 <td width="50%" valign="top">
 
-### 📖 Yaad-e-Saliheen
-A content-driven platform preserving and sharing meaningful stories and teachings.
-
-**Tech Stack:** `JavaScript` `Node.js` `MongoDB`
-
-[🔗 Repository](https://github.com/Hedayat002?tab=repositories) · [🌍 Live Demo](https://portfolio-hedayat.vercel.app/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🗳️ Decentralized Voting
-A blockchain-based voting system focused on transparency and tamper-proof results.
-
-**Tech Stack:** `Solidity` `React` `Ethereum`
-
-[🔗 Repository](https://github.com/Hedayat002?tab=repositories) · [🌍 Live Demo](https://portfolio-hedayat.vercel.app/)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI Projects
-A collection of AI/LLM-powered tools exploring prompt engineering and applied machine learning.
-
-**Tech Stack:** `Python` `OpenAI API` `LangChain`
-
-[🔗 Repository](https://github.com/Hedayat002?tab=repositories) · [🌍 Live Demo](https://portfolio-hedayat.vercel.app/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ FastAPI REST API
-A high-performance REST API backend built with FastAPI, designed for speed and scalability.
-
-**Tech Stack:** `Python` `FastAPI` `PostgreSQL`
-
-[🔗 Repository](https://github.com/Hedayat002?tab=repositories) · [🌍 Live Demo](https://portfolio-hedayat.vercel.app/)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 Django Project
+<!-- ### 🎯 Django Project
 A full-featured web application built on Django, focused on maintainability and clean architecture.
 
 **Tech Stack:** `Python` `Django` `MySQL`
@@ -269,6 +214,7 @@ A full-featured web application built on Django, focused on maintainability and 
 </tr>
 <tr>
 <td colspan="2" valign="top">
+-->
 
 ### 🫖 Get-Chai — Creator Support Platform
 An open-source, Patreon-style platform enabling creators to receive one-time or recurring support from their audience.

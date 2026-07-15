@@ -1,0 +1,331 @@
+<svg width="1180" height="610" viewBox="0 0 1180 610" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="MD HEDAYAT ALI - Full Stack Developer profile header">
+<title>MD HEDAYAT ALI · Full Stack Developer</title>
+<defs>
+<clipPath id="outerClip_l"><rect x="0" y="0" width="1180" height="610" rx="28"/></clipPath>
+<radialGradient id="bgGrad_l" cx="20%" cy="10%" r="90%">
+        <stop offset="0%" stop-color="#F8FAFC"/>
+        <stop offset="100%" stop-color="#FFFFFF"/>
+      </radialGradient>
+<linearGradient id="accentGrad_l" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#2563EB"><animate attributeName="stop-color" dur="6s" repeatCount="indefinite"
+          values="#2563EB;#06B6D4;#10B981;#2563EB"/></stop>
+        <stop offset="50%" stop-color="#06B6D4"><animate attributeName="stop-color" dur="6s" repeatCount="indefinite"
+          values="#06B6D4;#10B981;#2563EB;#06B6D4"/></stop>
+        <stop offset="100%" stop-color="#10B981"><animate attributeName="stop-color" dur="6s" repeatCount="indefinite"
+          values="#10B981;#2563EB;#06B6D4;#10B981"/></stop>
+      </linearGradient>
+<linearGradient id="asciiGrad_l" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#2563EB"/>
+        <stop offset="50%" stop-color="#06B6D4"/>
+        <stop offset="100%" stop-color="#10B981"/>
+        <animateTransform attributeName="gradientTransform" type="rotate"
+          values="0 0.5 0.5;360 0.5 0.5" dur="10s" repeatCount="indefinite"/>
+      </linearGradient>
+<linearGradient id="borderGrad_l" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#2563EB" stop-opacity="0"/>
+        <stop offset="45%" stop-color="#06B6D4" stop-opacity="0.9"/>
+        <stop offset="55%" stop-color="#06B6D4" stop-opacity="0.9"/>
+        <stop offset="100%" stop-color="#10B981" stop-opacity="0"/>
+        <animateTransform attributeName="gradientTransform" type="translate"
+          values="-1180 0; 1180 0; -1180 0" dur="7s" repeatCount="indefinite"/>
+      </linearGradient>
+<linearGradient id="pillGrad_l" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#2563EB"/>
+        <stop offset="100%" stop-color="#06B6D4"/>
+      </linearGradient>
+<filter id="softGlow_l" x="-60%" y="-60%" width="220%" height="220%">
+        <feGaussianBlur stdDeviation="6" result="blur"/>
+        <feMerge>
+          <feMergeNode in="blur"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+<filter id="bigBlur_l" x="-100%" y="-100%" width="300%" height="300%">
+        <feGaussianBlur stdDeviation="55"/>
+      </filter>
+<filter id="noise_l">
+        <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" stitchTiles="stitch" result="n"/>
+        <feColorMatrix in="n" type="matrix" values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 0.6 0"/>
+      </filter>
+<linearGradient id="glass_l" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" stop-color="#ffffff" stop-opacity="0.5"/>
+        <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+      </linearGradient>
+</defs>
+<g clip-path="url(#outerClip_l)">
+<rect x="0" y="0" width="1180" height="610" fill="url(#bgGrad_l)"/>
+<circle cx="120" cy="90" r="210" fill="#93C5FD" opacity="0.16" filter="url(#bigBlur_l)">
+          <animateTransform attributeName="transform" type="translate"
+            values="0,0; 18,-14; 0,0" dur="14s" repeatCount="indefinite"/>
+        </circle>
+<circle cx="380" cy="480" r="240" fill="#A5B4FC" opacity="0.16" filter="url(#bigBlur_l)">
+          <animateTransform attributeName="transform" type="translate"
+            values="0,0; -18,14; 0,0" dur="17s" repeatCount="indefinite"/>
+        </circle>
+<circle cx="900" cy="140" r="260" fill="#6EE7B7" opacity="0.16" filter="url(#bigBlur_l)">
+          <animateTransform attributeName="transform" type="translate"
+            values="0,0; 18,-14; 0,0" dur="20s" repeatCount="indefinite"/>
+        </circle>
+<rect x="0" y="0" width="1180" height="610" filter="url(#noise_l)" opacity="0.02"/>
+<rect x="0" y="-40" width="1180" height="40" fill="url(#pillGrad_l)" opacity="0.05">
+        <animate attributeName="y" values="-40;610;-40" dur="9s" repeatCount="indefinite"/>
+      </rect>
+<g>
+<rect x="24" y="24" width="408" height="562" rx="20" fill="#F8FAFC" fill-opacity="0.55" stroke="rgba(15,23,42,.08)" stroke-width="1"/>
+<rect x="24" y="24" width="408" height="562" rx="20" fill="url(#glass_l)"/>
+<rect x="24" y="24" width="408" height="3" rx="1.5" fill="url(#borderGrad_l)"/>
+<g transform="translate(52,70)">
+  <animateTransform attributeName="transform" type="translate" additive="sum" values="0,0; 0,-6; 0,0" dur="5s" repeatCount="indefinite"/>
+  <text x="0" y="0" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14.5" fill="url(#asciiGrad_l)" filter="url(#softGlow_l)">
+    <tspan x="0" dy="0" opacity="0"> .------------------.<animate attributeName="opacity" to="1" begin="0.00s" dur="0.01s" fill="freeze"/></tspan>
+    <tspan x="0" dy="20" opacity="0"> |   ,--------.     |<animate attributeName="opacity" to="1" begin="0.35s" dur="0.01s" fill="freeze"/></tspan>
+    <tspan x="0" dy="20" opacity="0"> |  /  ()  ()  \    |<animate attributeName="opacity" to="1" begin="0.70s" dur="0.01s" fill="freeze"/></tspan>
+    <tspan x="0" dy="20" opacity="0"> |  |     ▽     |   |<animate attributeName="opacity" to="1" begin="1.05s" dur="0.01s" fill="freeze"/></tspan>
+    <tspan x="0" dy="20" opacity="0"> |  \  \____/  /    |<animate attributeName="opacity" to="1" begin="1.40s" dur="0.01s" fill="freeze"/></tspan>
+    <tspan x="0" dy="20" opacity="0"> |   `--------`     |<animate attributeName="opacity" to="1" begin="1.75s" dur="0.01s" fill="freeze"/></tspan>
+    <tspan x="0" dy="20" opacity="0"> &#x27;------------------&#x27;<animate attributeName="opacity" to="1" begin="2.10s" dur="0.01s" fill="freeze"/></tspan>
+    <tspan x="0" dy="20" opacity="0"> <animate attributeName="opacity" to="1" begin="2.45s" dur="0.01s" fill="freeze"/></tspan>
+    <tspan x="0" dy="20" opacity="0">  &gt; whoami<animate attributeName="opacity" to="1" begin="2.80s" dur="0.01s" fill="freeze"/></tspan>
+    <tspan x="0" dy="20" opacity="0">    md_hedayat_ali<animate attributeName="opacity" to="1" begin="3.15s" dur="0.01s" fill="freeze"/></tspan>
+    <tspan x="0" dy="20" opacity="0">  &gt; role<animate attributeName="opacity" to="1" begin="3.50s" dur="0.01s" fill="freeze"/></tspan>
+    <tspan x="0" dy="20" opacity="0">    full_stack_dev<animate attributeName="opacity" to="1" begin="3.85s" dur="0.01s" fill="freeze"/></tspan>
+    <tspan x="0" dy="20" opacity="0">  &gt; stack<animate attributeName="opacity" to="1" begin="4.20s" dur="0.01s" fill="freeze"/></tspan>
+    <tspan x="0" dy="20" opacity="0">    mern / next.js<animate attributeName="opacity" to="1" begin="4.55s" dur="0.01s" fill="freeze"/></tspan>
+    <tspan x="0" dy="20" opacity="0">  &gt; status<animate attributeName="opacity" to="1" begin="4.90s" dur="0.01s" fill="freeze"/></tspan>
+    <tspan x="0" dy="20" opacity="0">    [ONLINE] building_<animate attributeName="opacity" to="1" begin="5.25s" dur="0.01s" fill="freeze"/></tspan>
+  </text>
+  <rect x="188" y="289" width="8" height="14" fill="#06B6D4">
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="1s" begin="5.60s" repeatCount="indefinite"/>
+  </rect>
+</g>
+<clipPath id="leftClip_l"><rect x="24" y="24" width="408" height="562" rx="20"/></clipPath>
+<g clip-path="url(#leftClip_l)">
+  <rect x="24" y="24" width="408" height="18" fill="#06B6D4" opacity="0.08">
+    <animate attributeName="y" values="24;586;24" dur="6s" repeatCount="indefinite"/>
+  </rect>
+</g>
+<circle cx="159" cy="159" r="2.2" fill="#06B6D4" opacity="0.5">
+  <animate attributeName="cy" values="159;119;159" dur="5.3s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0.6;0" dur="5.3s" repeatCount="indefinite"/>
+</circle>
+<circle cx="237" cy="243" r="1.3" fill="#06B6D4" opacity="0.5">
+  <animate attributeName="cy" values="243;203;243" dur="7.0s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0.6;0" dur="7.0s" repeatCount="indefinite"/>
+</circle>
+<circle cx="54" cy="269" r="1.3" fill="#06B6D4" opacity="0.5">
+  <animate attributeName="cy" values="269;229;269" dur="5.4s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0.6;0" dur="5.4s" repeatCount="indefinite"/>
+</circle>
+<circle cx="196" cy="422" r="1.4" fill="#06B6D4" opacity="0.5">
+  <animate attributeName="cy" values="422;382;422" dur="5.9s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0.6;0" dur="5.9s" repeatCount="indefinite"/>
+</circle>
+<circle cx="271" cy="470" r="2.1" fill="#06B6D4" opacity="0.5">
+  <animate attributeName="cy" values="470;430;470" dur="6.6s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0.6;0" dur="6.6s" repeatCount="indefinite"/>
+</circle>
+<circle cx="399" cy="118" r="2.6" fill="#06B6D4" opacity="0.5">
+  <animate attributeName="cy" values="118;78;118" dur="6.2s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0.6;0" dur="6.2s" repeatCount="indefinite"/>
+</circle>
+<circle cx="93" cy="146" r="1.7" fill="#06B6D4" opacity="0.5">
+  <animate attributeName="cy" values="146;106;146" dur="8.3s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0.6;0" dur="8.3s" repeatCount="indefinite"/>
+</circle>
+<circle cx="107" cy="327" r="2.2" fill="#06B6D4" opacity="0.5">
+  <animate attributeName="cy" values="327;287;327" dur="6.5s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0.6;0" dur="6.5s" repeatCount="indefinite"/>
+</circle>
+<circle cx="242" cy="124" r="1.3" fill="#06B6D4" opacity="0.5">
+  <animate attributeName="cy" values="124;84;124" dur="5.8s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0.6;0" dur="5.8s" repeatCount="indefinite"/>
+</circle>
+<text x="52" y="514" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="700" fill="#0F172A">MD HEDAYAT ALI</text>
+<text x="52" y="538" font-family="'SFMono-Regular',Consolas,monospace" font-size="13" fill="url(#accentGrad_l)">Full Stack Developer</text>
+</g>
+<g>
+<rect x="456" y="24" width="700" height="562" rx="20" fill="#F8FAFC" fill-opacity="0.55" stroke="rgba(15,23,42,.08)" stroke-width="1"/>
+<rect x="456" y="24" width="700" height="562" rx="20" fill="url(#glass_l)"/>
+<rect x="456" y="24" width="700" height="40" rx="20" fill="#F1F5F9"/>
+<rect x="456" y="44" width="700" height="20" fill="#F1F5F9"/>
+<circle cx="484" cy="44" r="6" fill="#FF5F56"/>
+<circle cx="504" cy="44" r="6" fill="#FFBD2E"/>
+<circle cx="524" cy="44" r="6" fill="#27C93F"/>
+<text x="806.0" y="49" text-anchor="middle" font-family="'SFMono-Regular',Consolas,monospace" font-size="12" fill="#475569">hedayat@dev ~ zsh</text>
+<g opacity="0"><animate attributeName="opacity" to="1" begin="0.20s" dur="0.01s" fill="freeze"/><text x="490" y="110" font-family="'SFMono-Regular',Consolas,monospace" font-size="15" fill="#475569">Hi <tspan>👋</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" to="1" begin="0.50s" dur="0.01s" fill="freeze"/><text x="490" y="144" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="800" fill="#0F172A">I'm <tspan fill="url(#accentGrad_l)">Md Hedayat Ali</tspan></text></g>
+<clipPath id="typeClip_l"><rect x="490" y="172" width="0" height="26">
+<animate attributeName="width" dur="12.8s" repeatCount="indefinite" keyTimes="0;0.0875;0.1875;0.2490;0.2500;0.3375;0.4375;0.4990;0.5000;0.5875;0.6875;0.7490;0.7500;0.8375;0.9375;1" values="0;208;208;0;0;197;197;0;0;176;176;0;0;166;166;0"/>
+</rect></clipPath>
+<g clip-path="url(#typeClip_l)">
+<text x="490" y="188" font-family="'SFMono-Regular',Consolas,monospace" font-size="18" font-weight="600" fill="#06B6D4" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.001;0.2480;0.2490" begin="0.00s" dur="12.80s" repeatCount="indefinite" fill="freeze"/>Full Stack Developer</text>
+<text x="490" y="188" font-family="'SFMono-Regular',Consolas,monospace" font-size="18" font-weight="600" fill="#06B6D4" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.001;0.4980;0.4990" begin="3.20s" dur="12.80s" repeatCount="indefinite" fill="freeze"/>MERN Stack Engineer</text>
+<text x="490" y="188" font-family="'SFMono-Regular',Consolas,monospace" font-size="18" font-weight="600" fill="#06B6D4" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.001;0.7480;0.7490" begin="6.40s" dur="12.80s" repeatCount="indefinite" fill="freeze"/>Next.js Developer</text>
+<text x="490" y="188" font-family="'SFMono-Regular',Consolas,monospace" font-size="18" font-weight="600" fill="#06B6D4" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.001;0.9980;0.9990" begin="9.60s" dur="12.80s" repeatCount="indefinite" fill="freeze"/>REST API Builder</text>
+</g>
+<rect x="486" y="173" width="2" height="20" fill="#06B6D4">
+  <animate attributeName="opacity" values="1;0" dur="0.6s" repeatCount="indefinite"/>
+  <animateMotion path="M0,0" dur="0.01s"/>
+</rect>
+<line x1="490" y1="234" x2="1122" y2="234" stroke="#E2E8F0" stroke-width="1"/>
+<g opacity="0" transform="translate(-14,0)"><animate attributeName="opacity" to="1" begin="1.60s" dur="0.01s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-14,0;0,0" begin="1.60s" dur="0.35s" fill="freeze"/><text x="490" y="264" font-family="'SFMono-Regular',Consolas,monospace" font-size="13" fill="#10B981">&gt;</text><text x="506" y="264" font-family="'SFMono-Regular',Consolas,monospace" font-size="13" fill="#475569">location:</text><text x="598" y="264" font-family="Arial,Helvetica,sans-serif" font-size="13.5" fill="#0F172A">India</text></g>
+<g opacity="0" transform="translate(-14,0)"><animate attributeName="opacity" to="1" begin="1.82s" dur="0.01s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-14,0;0,0" begin="1.82s" dur="0.35s" fill="freeze"/><text x="490" y="290" font-family="'SFMono-Regular',Consolas,monospace" font-size="13" fill="#10B981">&gt;</text><text x="506" y="290" font-family="'SFMono-Regular',Consolas,monospace" font-size="13" fill="#475569">education:</text><text x="598" y="290" font-family="Arial,Helvetica,sans-serif" font-size="13.5" fill="#0F172A">B.Tech CSE - Shankara Institute of Tech.</text></g>
+<g opacity="0" transform="translate(-14,0)"><animate attributeName="opacity" to="1" begin="2.04s" dur="0.01s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-14,0;0,0" begin="2.04s" dur="0.35s" fill="freeze"/><text x="490" y="316" font-family="'SFMono-Regular',Consolas,monospace" font-size="13" fill="#10B981">&gt;</text><text x="506" y="316" font-family="'SFMono-Regular',Consolas,monospace" font-size="13" fill="#475569">focus:</text><text x="598" y="316" font-family="Arial,Helvetica,sans-serif" font-size="13.5" fill="#0F172A">Shipping MERN / Next.js apps</text></g>
+<g opacity="0" transform="translate(-14,0)"><animate attributeName="opacity" to="1" begin="2.26s" dur="0.01s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-14,0;0,0" begin="2.26s" dur="0.35s" fill="freeze"/><text x="490" y="342" font-family="'SFMono-Regular',Consolas,monospace" font-size="13" fill="#10B981">&gt;</text><text x="506" y="342" font-family="'SFMono-Regular',Consolas,monospace" font-size="13" fill="#475569">portfolio:</text><text x="598" y="342" font-family="Arial,Helvetica,sans-serif" font-size="13.5" fill="#0F172A">get-chai.vercel.app</text></g>
+<g opacity="0" transform="translate(-14,0)"><animate attributeName="opacity" to="1" begin="2.48s" dur="0.01s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-14,0;0,0" begin="2.48s" dur="0.35s" fill="freeze"/><text x="490" y="368" font-family="'SFMono-Regular',Consolas,monospace" font-size="13" fill="#10B981">&gt;</text><text x="506" y="368" font-family="'SFMono-Regular',Consolas,monospace" font-size="13" fill="#475569">email:</text><text x="598" y="368" font-family="Arial,Helvetica,sans-serif" font-size="13.5" fill="#0F172A">hedayatali038@gmail.com</text></g>
+<text x="490" y="420" font-family="'SFMono-Regular',Consolas,monospace" font-size="12" letter-spacing="1.5" fill="#475569">SKILLS</text>
+<g opacity="0" transform="translate(490,436)"><animate attributeName="opacity" to="1" begin="2.80s" dur="0.4s" fill="freeze"/>
+  <rect width="70" height="30" rx="15" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1">
+    <animate attributeName="stroke" values="#E2E8F0;#06B6D4;#E2E8F0" dur="4s" begin="0.0s" repeatCount="indefinite"/>
+  </rect>
+  <rect width="70" height="30" rx="15" fill="none" stroke="url(#pillGrad_l)" stroke-width="1.4" opacity="0">
+    <animate attributeName="opacity" values="0;0.9;0" dur="4s" begin="0.0s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="14" cy="15" r="3" fill="#06B6D4"/>
+  <text x="26" y="20" font-family="'SFMono-Regular',Consolas,monospace" font-size="12.5" fill="#0F172A">React</text>
+</g>
+<g opacity="0" transform="translate(570,436)"><animate attributeName="opacity" to="1" begin="2.88s" dur="0.4s" fill="freeze"/>
+  <rect width="85" height="30" rx="15" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1">
+    <animate attributeName="stroke" values="#E2E8F0;#06B6D4;#E2E8F0" dur="4s" begin="0.3s" repeatCount="indefinite"/>
+  </rect>
+  <rect width="85" height="30" rx="15" fill="none" stroke="url(#pillGrad_l)" stroke-width="1.4" opacity="0">
+    <animate attributeName="opacity" values="0;0.9;0" dur="4s" begin="0.3s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="14" cy="15" r="3" fill="#06B6D4"/>
+  <text x="26" y="20" font-family="'SFMono-Regular',Consolas,monospace" font-size="12.5" fill="#0F172A">Next.js</text>
+</g>
+<g opacity="0" transform="translate(665,436)"><animate attributeName="opacity" to="1" begin="2.96s" dur="0.4s" fill="freeze"/>
+  <rect width="85" height="30" rx="15" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1">
+    <animate attributeName="stroke" values="#E2E8F0;#06B6D4;#E2E8F0" dur="4s" begin="0.6s" repeatCount="indefinite"/>
+  </rect>
+  <rect width="85" height="30" rx="15" fill="none" stroke="url(#pillGrad_l)" stroke-width="1.4" opacity="0">
+    <animate attributeName="opacity" values="0;0.9;0" dur="4s" begin="0.6s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="14" cy="15" r="3" fill="#06B6D4"/>
+  <text x="26" y="20" font-family="'SFMono-Regular',Consolas,monospace" font-size="12.5" fill="#0F172A">Node.js</text>
+</g>
+<g opacity="0" transform="translate(760,436)"><animate attributeName="opacity" to="1" begin="3.04s" dur="0.4s" fill="freeze"/>
+  <rect width="85" height="30" rx="15" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1">
+    <animate attributeName="stroke" values="#E2E8F0;#06B6D4;#E2E8F0" dur="4s" begin="0.9s" repeatCount="indefinite"/>
+  </rect>
+  <rect width="85" height="30" rx="15" fill="none" stroke="url(#pillGrad_l)" stroke-width="1.4" opacity="0">
+    <animate attributeName="opacity" values="0;0.9;0" dur="4s" begin="0.9s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="14" cy="15" r="3" fill="#06B6D4"/>
+  <text x="26" y="20" font-family="'SFMono-Regular',Consolas,monospace" font-size="12.5" fill="#0F172A">Express</text>
+</g>
+<g opacity="0" transform="translate(856,436)"><animate attributeName="opacity" to="1" begin="3.12s" dur="0.4s" fill="freeze"/>
+  <rect width="85" height="30" rx="15" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1">
+    <animate attributeName="stroke" values="#E2E8F0;#06B6D4;#E2E8F0" dur="4s" begin="1.2s" repeatCount="indefinite"/>
+  </rect>
+  <rect width="85" height="30" rx="15" fill="none" stroke="url(#pillGrad_l)" stroke-width="1.4" opacity="0">
+    <animate attributeName="opacity" values="0;0.9;0" dur="4s" begin="1.2s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="14" cy="15" r="3" fill="#06B6D4"/>
+  <text x="26" y="20" font-family="'SFMono-Regular',Consolas,monospace" font-size="12.5" fill="#0F172A">MongoDB</text>
+</g>
+<g opacity="0" transform="translate(951,436)"><animate attributeName="opacity" to="1" begin="3.20s" dur="0.4s" fill="freeze"/>
+  <rect width="108" height="30" rx="15" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1">
+    <animate attributeName="stroke" values="#E2E8F0;#06B6D4;#E2E8F0" dur="4s" begin="1.5s" repeatCount="indefinite"/>
+  </rect>
+  <rect width="108" height="30" rx="15" fill="none" stroke="url(#pillGrad_l)" stroke-width="1.4" opacity="0">
+    <animate attributeName="opacity" values="0;0.9;0" dur="4s" begin="1.5s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="14" cy="15" r="3" fill="#06B6D4"/>
+  <text x="26" y="20" font-family="'SFMono-Regular',Consolas,monospace" font-size="12.5" fill="#0F172A">JavaScript</text>
+</g>
+<g opacity="0" transform="translate(490,476)"><animate attributeName="opacity" to="1" begin="3.28s" dur="0.4s" fill="freeze"/>
+  <rect width="123" height="30" rx="15" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1">
+    <animate attributeName="stroke" values="#E2E8F0;#06B6D4;#E2E8F0" dur="4s" begin="1.8s" repeatCount="indefinite"/>
+  </rect>
+  <rect width="123" height="30" rx="15" fill="none" stroke="url(#pillGrad_l)" stroke-width="1.4" opacity="0">
+    <animate attributeName="opacity" values="0;0.9;0" dur="4s" begin="1.8s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="14" cy="15" r="3" fill="#06B6D4"/>
+  <text x="26" y="20" font-family="'SFMono-Regular',Consolas,monospace" font-size="12.5" fill="#0F172A">Tailwind CSS</text>
+</g>
+<g opacity="0" transform="translate(623,476)"><animate attributeName="opacity" to="1" begin="3.36s" dur="0.4s" fill="freeze"/>
+  <rect width="78" height="30" rx="15" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1">
+    <animate attributeName="stroke" values="#E2E8F0;#06B6D4;#E2E8F0" dur="4s" begin="2.1s" repeatCount="indefinite"/>
+  </rect>
+  <rect width="78" height="30" rx="15" fill="none" stroke="url(#pillGrad_l)" stroke-width="1.4" opacity="0">
+    <animate attributeName="opacity" values="0;0.9;0" dur="4s" begin="2.1s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="14" cy="15" r="3" fill="#06B6D4"/>
+  <text x="26" y="20" font-family="'SFMono-Regular',Consolas,monospace" font-size="12.5" fill="#0F172A">Python</text>
+</g>
+<g opacity="0" transform="translate(711,476)"><animate attributeName="opacity" to="1" begin="3.44s" dur="0.4s" fill="freeze"/>
+  <rect width="85" height="30" rx="15" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1">
+    <animate attributeName="stroke" values="#E2E8F0;#06B6D4;#E2E8F0" dur="4s" begin="2.4s" repeatCount="indefinite"/>
+  </rect>
+  <rect width="85" height="30" rx="15" fill="none" stroke="url(#pillGrad_l)" stroke-width="1.4" opacity="0">
+    <animate attributeName="opacity" values="0;0.9;0" dur="4s" begin="2.4s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="14" cy="15" r="3" fill="#06B6D4"/>
+  <text x="26" y="20" font-family="'SFMono-Regular',Consolas,monospace" font-size="12.5" fill="#0F172A">Postman</text>
+</g>
+<g opacity="0" transform="translate(806,476)"><animate attributeName="opacity" to="1" begin="3.52s" dur="0.4s" fill="freeze"/>
+  <rect width="55" height="30" rx="15" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1">
+    <animate attributeName="stroke" values="#E2E8F0;#06B6D4;#E2E8F0" dur="4s" begin="2.7s" repeatCount="indefinite"/>
+  </rect>
+  <rect width="55" height="30" rx="15" fill="none" stroke="url(#pillGrad_l)" stroke-width="1.4" opacity="0">
+    <animate attributeName="opacity" values="0;0.9;0" dur="4s" begin="2.7s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="14" cy="15" r="3" fill="#06B6D4"/>
+  <text x="26" y="20" font-family="'SFMono-Regular',Consolas,monospace" font-size="12.5" fill="#0F172A">Git</text>
+</g>
+<g opacity="0" transform="translate(871,476)"><animate attributeName="opacity" to="1" begin="3.60s" dur="0.4s" fill="freeze"/>
+  <rect width="70" height="30" rx="15" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1">
+    <animate attributeName="stroke" values="#E2E8F0;#06B6D4;#E2E8F0" dur="4s" begin="3.0s" repeatCount="indefinite"/>
+  </rect>
+  <rect width="70" height="30" rx="15" fill="none" stroke="url(#pillGrad_l)" stroke-width="1.4" opacity="0">
+    <animate attributeName="opacity" values="0;0.9;0" dur="4s" begin="3.0s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="14" cy="15" r="3" fill="#06B6D4"/>
+  <text x="26" y="20" font-family="'SFMono-Regular',Consolas,monospace" font-size="12.5" fill="#0F172A">Figma</text>
+</g>
+<a xlink:href="https://github.com/Hedayat002" target="_blank">
+<g opacity="0" transform="translate(0,552)"><animate attributeName="opacity" to="1" begin="3.60s" dur="0.4s" fill="freeze"/>
+  <circle cx="507" cy="0" r="17" fill="#F1F5F9" stroke="#E2E8F0" stroke-width="1"/>
+  <circle cx="507" cy="0" r="17" fill="none" stroke="#06B6D4" stroke-width="1" opacity="0">
+    <animate attributeName="opacity" values="0;0.8;0" dur="3s" begin="0.0s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="17;21;17" dur="3s" begin="0.0s" repeatCount="indefinite"/>
+  </circle>
+<path transform="translate(498,-9) scale(0.750)" fill="#0F172A" d="M12 .5C5.73.5.5 5.73.5 12c0 5.08 3.29 9.39 7.86 10.91.58.1.79-.25.79-.56 0-.28-.01-1.02-.02-2-3.2.7-3.88-1.54-3.88-1.54-.53-1.34-1.29-1.7-1.29-1.7-1.05-.72.08-.71.08-.71 1.17.08 1.78 1.2 1.78 1.2 1.03 1.77 2.71 1.26 3.37.96.1-.75.4-1.26.73-1.55-2.55-.29-5.23-1.28-5.23-5.68 0-1.25.45-2.28 1.19-3.08-.12-.29-.52-1.46.11-3.05 0 0 .97-.31 3.18 1.18a11 11 0 0 1 5.8 0c2.2-1.49 3.17-1.18 3.17-1.18.64 1.59.24 2.76.12 3.05.74.8 1.18 1.83 1.18 3.08 0 4.41-2.69 5.38-5.25 5.67.41.36.78 1.08.78 2.17 0 1.57-.01 2.83-.01 3.22 0 .31.21.67.8.56A10.52 10.52 0 0 0 23.5 12C23.5 5.73 18.27.5 12 .5Z"/>
+</g>
+</a>
+<a xlink:href="https://www.linkedin.com/in/hedayat002/" target="_blank">
+<g opacity="0" transform="translate(0,552)"><animate attributeName="opacity" to="1" begin="3.75s" dur="0.4s" fill="freeze"/>
+  <circle cx="553" cy="0" r="17" fill="#F1F5F9" stroke="#E2E8F0" stroke-width="1"/>
+  <circle cx="553" cy="0" r="17" fill="none" stroke="#06B6D4" stroke-width="1" opacity="0">
+    <animate attributeName="opacity" values="0;0.8;0" dur="3s" begin="0.4s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="17;21;17" dur="3s" begin="0.4s" repeatCount="indefinite"/>
+  </circle>
+<g transform="translate(544,-9) scale(0.750)" fill="#0F172A"><rect x="0.5" y="8" width="4.4" height="15.5" rx="1"/><circle cx="2.7" cy="3" r="2.6"/><path d="M9 8h4.2v2.1h.06c.58-1.1 2-2.26 4.14-2.26 4.43 0 5.25 2.92 5.25 6.72V23.5h-4.4v-7.1c0-1.7-.03-3.87-2.36-3.87-2.37 0-2.73 1.85-2.73 3.75v7.22H9V8Z"/></g>
+</g>
+</a>
+<a xlink:href="https://get-chai.vercel.app/" target="_blank">
+<g opacity="0" transform="translate(0,552)"><animate attributeName="opacity" to="1" begin="3.90s" dur="0.4s" fill="freeze"/>
+  <circle cx="599" cy="0" r="17" fill="#F1F5F9" stroke="#E2E8F0" stroke-width="1"/>
+  <circle cx="599" cy="0" r="17" fill="none" stroke="#06B6D4" stroke-width="1" opacity="0">
+    <animate attributeName="opacity" values="0;0.8;0" dur="3s" begin="0.8s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="17;21;17" dur="3s" begin="0.8s" repeatCount="indefinite"/>
+  </circle>
+<g transform="translate(590,-9)" fill="none" stroke="#0F172A" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="1" y="5" width="16" height="12" rx="2"/><path d="M6 5V3.5A1.5 1.5 0 0 1 7.5 2h3A1.5 1.5 0 0 1 12 3.5V5"/><line x1="1" y1="10" x2="17" y2="10"/></g>
+</g>
+</a>
+<a xlink:href="mailto:hedayatali038@gmail.com" target="_blank">
+<g opacity="0" transform="translate(0,552)"><animate attributeName="opacity" to="1" begin="4.05s" dur="0.4s" fill="freeze"/>
+  <circle cx="645" cy="0" r="17" fill="#F1F5F9" stroke="#E2E8F0" stroke-width="1"/>
+  <circle cx="645" cy="0" r="17" fill="none" stroke="#06B6D4" stroke-width="1" opacity="0">
+    <animate attributeName="opacity" values="0;0.8;0" dur="3s" begin="1.2s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="17;21;17" dur="3s" begin="1.2s" repeatCount="indefinite"/>
+  </circle>
+<g transform="translate(636,-9)" fill="none" stroke="#0F172A" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="0.5" y="3.5" width="17" height="12" rx="2"/><path d="M1 5l8 6 8-6"/></g>
+</g>
+</a>
+</g>
+<rect x="1" y="1" width="1178" height="608" rx="27" fill="none" stroke="#CBD5E1" stroke-opacity="0.5" stroke-width="1"/>
+<rect x="1" y="1" width="1178" height="608" rx="27" fill="none" stroke="url(#borderGrad_l)" stroke-width="1.5"/>
+</g>
+</svg>

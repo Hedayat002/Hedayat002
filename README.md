@@ -149,7 +149,7 @@
 <br/><br/> -->
 
 <!-- Contribution Snake (optional) -->
-<img src="https://raw.githubusercontent.com/Hedayat002/Hedayat002/output/github-contribution-grid-snake.svg" width="90%" alt="Contribution Snake" />
+<!-- <img src="https://raw.githubusercontent.com/Hedayat002/Hedayat002/output/github-contribution-grid-snake.svg" width="90%" alt="Contribution Snake" /> -->
 
 </div>
 

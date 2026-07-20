@@ -127,7 +127,7 @@
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hedayat002&theme=tokyonight&hide_border=false" height="165" />
 <br/>
-<img src="https://github-profile-trophy.vercel.app/?username=Hedayat002&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=Hedayat002&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" /> -->
 <br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hedayat002&theme=tokyo-night&hide_border=true" width="90%" />
 ---

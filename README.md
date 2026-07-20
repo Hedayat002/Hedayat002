@@ -119,42 +119,18 @@
 <td align="center"><img src="https://skillicons.dev/icons?i=vscode,postman,linux,githubactions" /></td>
 </tr>
 </table>
-
 ---
-
 <h2 align="center">📊 GitHub Analytics</h2>
-
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=Hedayat002&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hedayat002&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165" />
-
 <br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hedayat002&theme=tokyonight&hide_border=false" height="165" />
-
 <br/>
-
 <img src="https://github-profile-trophy.vercel.app/?username=Hedayat002&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
-
 <br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hedayat002&theme=tokyo-night&hide_border=true" width="90%" />
-
-<!-- <br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Hedayat002&color=58A6FF&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/Hedayat002?style=for-the-badge&color=58A6FF&labelColor=181717)
-
-<br/><br/> -->
-
-<!-- Contribution Snake (optional) -->
-<!-- <img src="https://raw.githubusercontent.com/Hedayat002/Hedayat002/output/github-contribution-grid-snake.svg" width="90%" alt="Contribution Snake" /> -->
-
-</div>
-
 ---
-
 <h2 align="center">🏆 Competitive Programming</h2>
 
 <div align="center">

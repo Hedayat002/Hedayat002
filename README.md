@@ -33,7 +33,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Developer;Full+Stack+Developer;Python+Developer;Backend+Developer;MERN+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;AI+%26+LLM+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Developer;Full+Stack+Developer;Python+Developer;Backend+Developer;MERN+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;AI+%26+Always+Learning+New+Technologies" alt="Typing SVG" />
 
 </div>
 
